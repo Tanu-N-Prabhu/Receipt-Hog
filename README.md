@@ -13,6 +13,8 @@
 2. [Simple Steps to Use the App](#steps1)
 3. [Download](#download)
 4. [Progress Tracker](#tracker)
+5. [Threshold](#threshold)
+    5.1 [Upload Limits](#upload)
 
 
 
@@ -39,3 +41,7 @@ There is a progress bar that shows the total number of coins that you have earne
   <img src = "https://github.com/Tanu-N-Prabhu/Receipt-Hog/blob/main/Img/snap2.PNG">
 </p>
 
+
+# Threshold Limits <a name= "threshold"></a>
+## Upload Limits <a name="upload"></a>
+You can upload up to 20 qualifying receipts that can be rewarded per receipt, the rest on top of that will not get you aunty coins. 
