@@ -15,6 +15,7 @@
 4. [Progress Tracker](#tracker)
 5. [Threshold](#threshold)
     1. [Upload Limits](#upload)
+    2. [Coin Threshold](#coin)
 
 
 
@@ -55,3 +56,15 @@ You can upload up to 20 coin receipts during the week, anything past that would 
 | Week 2 | 8th - 14th |
 | Week 3 | 15th - 21st |
 | Week 4 | 22nd - End of the month |
+
+> The weeks are calculated in Pacific standard time.
+
+## Spin Threshold <a name= "spin"></a>
+Similar to the Coin-Receipt threshold, the threshold for Spin-Receipts is also 20 Spin-receipts during each of the pre-defined weeks in the app
+
+## Old Receipts <a name= "name"></a>
+A receipt must be uploaded to the app **no more than 14 days after the transaction date** as it appears on the receipt.
+
+<p align = "center">
+  <img src = "https://github.com/Tanu-N-Prabhu/Receipt-Hog/blob/main/Img/Screenshot_20230321-085043.jpg">
+</p>
