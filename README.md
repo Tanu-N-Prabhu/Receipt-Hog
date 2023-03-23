@@ -12,7 +12,7 @@
 1. [Overview](#overview)
 2. [Simple Steps to Use the App](#steps1)
 3. [Download](#download)
-    1. [Sub paragraph](#subparagraph1)
+4. [Progress Tracker](#tracker)
 
 
 
@@ -30,3 +30,12 @@ Turn your shopping into cash - <i>No matter what you shop or buy!</i>
 
 1. Android - [Download](https://play.google.com/store/apps/details?id=com.infoscout.receipthog&hl=en_CA&gl=US)
 2. Apple - [Download](https://apps.apple.com/us/app/receipt-hog-shopping-rewards/id525373618)
+
+# Progress Tracker <a name= "tracker"></a>
+
+There is a progress bar that shows the total number of coins that you have earned from the receipts in that current week. Now the best part about it is on completion of the tracker, the additional receipts submitted during that week regardless of their total are worth 5 coins. Make sure you upload the highest dollar value receipts in the beginning so you can claim more coins don’t wait until the end, as you can see it’s only worth 5 coins. When the week resets, the progress bar also resets. 
+
+<p align = "center">
+  <img src = "https://github.com/Tanu-N-Prabhu/Receipt-Hog/blob/main/Img/snap2.PNG">
+</p>
+
