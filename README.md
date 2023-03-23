@@ -11,8 +11,8 @@
 # Table of contents
 1. [Overview](#overview)
 2. [Simple Steps to Use the App](#steps1)
+3. [Download](#download)
     1. [Sub paragraph](#subparagraph1)
-3. [Another paragraph](#paragraph2)
 
 
 
@@ -25,3 +25,8 @@ Turn your shopping into cash - <i>No matter what you shop or buy!</i>
 <p align = "center">
   <img src = "https://github.com/Tanu-N-Prabhu/Receipt-Hog/blob/main/Img/table1Steps.PNG">
 </p>
+
+# Download <a name= "download"></a>
+
+1. Android - [Download](https://play.google.com/store/apps/details?id=com.infoscout.receipthog&hl=en_CA&gl=US)
+2. Apple - [Download](https://apps.apple.com/us/app/receipt-hog-shopping-rewards/id525373618)
