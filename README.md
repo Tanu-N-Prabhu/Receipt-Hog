@@ -14,7 +14,7 @@
 3. [Download](#download)
 4. [Progress Tracker](#tracker)
 5. [Threshold](#threshold)
-    5.1 [Upload Limits](#upload)
+    1. [Upload Limits](#upload)
 
 
 
@@ -45,3 +45,13 @@ There is a progress bar that shows the total number of coins that you have earne
 # Threshold Limits <a name= "threshold"></a>
 ## Upload Limits <a name="upload"></a>
 You can upload up to 20 qualifying receipts that can be rewarded per receipt, the rest on top of that will not get you aunty coins. 
+
+## Coin Threshold <a name= "coin"></a>
+You can upload up to 20 coin receipts during the week, anything past that would not be accounted for. The weeks for the month are calculated as shown below.
+
+| Week   |      Days      | 
+|----------|:-------------:|
+| Week 1 |  1st - 7th |
+| Week 2 | 8th - 14th |
+| Week 3 | 15th - 21st |
+| Week 4 | 22nd - End of the month |
