@@ -17,6 +17,7 @@
     1. [Upload Limits](#upload)
     2. [Coin Threshold](#coin)
     3. [Old Receipts](#old)
+    4. [Store Threshold](#store)
 
 
 
@@ -69,3 +70,15 @@ A receipt must be uploaded to the app **no more than 14 days after the transacti
 <p align = "center">
   <img src = "https://github.com/Tanu-N-Prabhu/Receipt-Hog/blob/main/Img/Screenshot_20230321-085043.jpg" width="15%">
 </p>
+
+Once again keep in mind, the time zone that is being used is PST. The best solution here is to upload your receipts as you receive them rather than waiting til the last minute
+
+## Store Threshold <a name= "store"></a>
+
+Regardless of the day they are uploaded and the location of the business, you can upload up to 3 receipts from the same store with the same transaction date.  
+
+<p align = "center">
+  <img src = "https://github.com/Tanu-N-Prabhu/Receipt-Hog/blob/main/Img/Screenshot_20230321-083619.jpg" width="15%">
+</p>
+
+Receipts contribute to this threshold as they are processed in our system so if you upload more than 3 receipts at once, the 3 receipts that finish processing first will qualify. Shorter receipts tend to process before longer receipts and may cause the long receipts to no longer qualify for rewards. Longer receipts naturally may take a bit longer to process since they have more information
