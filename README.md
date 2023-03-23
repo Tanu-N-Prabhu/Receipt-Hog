@@ -18,6 +18,7 @@
     2. [Coin Threshold](#coin)
     3. [Old Receipts](#old)
     4. [Store Threshold](#store)
+6. [Earnings Per Receipt](#earnings)
 
 
 
@@ -82,3 +83,19 @@ Regardless of the day they are uploaded and the location of the business, you ca
 </p>
 
 Receipts contribute to this threshold as they are processed in our system so if you upload more than 3 receipts at once, the 3 receipts that finish processing first will qualify. Shorter receipts tend to process before longer receipts and may cause the long receipts to no longer qualify for rewards. Longer receipts naturally may take a bit longer to process since they have more information
+
+
+# Earning Per Receipt <a name= "earnings"></a>
+
+## Coins <a name= "coins2"></a>
+
+You can earn coins from your receipts from any store, big or small that sells groceries, health, or any products. You can then submit your paper receipts as an image. There is one catch here. Make sure you don't upload the same receipts that your friend uploads who is already a member just to avoid duplication. 
+
+| Receipt Total   |      Coins Earned      | 
+|----------|:-------------:|
+| Less than $10.00 | 5 Coins |
+| $10.00 - $49.99 | 10 Coins |
+| $50.00 - $99.99  | 15 Coins |
+| $100.00+ | 20 Coins |
+
+  
