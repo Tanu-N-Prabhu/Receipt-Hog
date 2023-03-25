@@ -19,6 +19,8 @@
     3. [Old Receipts](#old)
     4. [Store Threshold](#store)
 6. [Earnings Per Receipt](#earnings)
+    1. [Coins](#coins2)
+    2. [Spins](#spins2)
 
 
 
@@ -98,4 +100,9 @@ You can earn coins from your receipts from any store, big or small that sells gr
 | $50.00 - $99.99  | 15 Coins |
 | $100.00+ | 20 Coins |
 
-  
+ ## Spins <a name= "spins2"></a>
+ 
+You can earn 1 spin at the hog slots for every receipt from the retailers like a clothing store, home improvement stores, sporting goods stores and more. In Hog slots, you can have a chance to win more bonuses such as more coins, and other prizes, including having your last shopping trip paid for!
+
+# Types of Stores for Earning Spins <a name = "types">
+ 
