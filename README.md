@@ -21,6 +21,10 @@
 6. [Earnings Per Receipt](#earnings)
     1. [Coins](#coins2)
     2. [Spins](#spins2)
+7. [Types of Stores for Earning Spins](#types)
+8. [Types of Stores for Earning Coins](#types2)
+9. [Ineligible Paper Receipt Types](#paper)
+    1. [Doctored Receipts](#doctored)
 
 
 
@@ -104,5 +108,36 @@ You can earn coins from your receipts from any store, big or small that sells gr
  
 You can earn 1 spin at the hog slots for every receipt from the retailers like a clothing store, home improvement stores, sporting goods stores and more. In Hog slots, you can have a chance to win more bonuses such as more coins, and other prizes, including having your last shopping trip paid for!
 
-# Types of Stores for Earning Spins <a name = "types">
- 
+# Types of Stores for Earning Spins <a name = "types"></a>
+  
+1. Clothing
+2. Electronics
+3. Office Supplies
+4. Books
+5. Sporting Goods
+6. Arts and Crafts
+7. Home Improvement
+8. Home Furnishings
+9. Automotive Stores including Gas Stations
+10. Speciality Stores
+  
+# Types of Stores for Earning Coins <a name = "types2"></a>
+
+1. Supermarkets
+2. Convenience Stores
+3. Supercenters
+4. Club Stores
+5. Liquor Stores
+6. Dollar Stores
+7. Pet Supply Stores
+8. Toy Stores
+9. Drug Stores
+10. Beauty Stores
+11. Health Stores
+
+# Ineligible Paper Receipt Types <a name = "paper"></a>
+
+Types of Paper Receipts that are not qualified for rewards
+
+## Doctored Receipts <a name= "doctored"></a>
+
