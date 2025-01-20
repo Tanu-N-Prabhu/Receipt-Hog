@@ -1,12 +1,11 @@
 # Cash Back for Your Receipts: Exploring Receipt Hog
 ## Transforming everyday receipts into extra savings made simple
 
-<p align = "center">
-  <img src = "https://github.com/Tanu-N-Prabhu/Receipt-Hog/blob/main/Img/unnamed%20(1).png">
-</p>
 
-<h5 align = "right">Written By - <i>Tanu Nanda Prabhu</i></h5>
-<h5 align = "right">Date modified - <i>Jan 19, 2025</i></h5>
+| ![space-1.jpg](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*dQM-nbd0fPRzxNveWqhLeA.jpeg) | 
+|:--:| 
+| Image Credits [Receipt Hog](https://receipthog.com/) |
+
 
 
 # Table of contents
@@ -193,4 +192,7 @@ Submitting over 20 receipts in any of these categories will trigger a threshold,
 # Conclusion <a name = "conclusion"></a>
 
 In conclusion, Receipt Hog provides a unique and simple way to earn cash back by submitting your receipts. Whether you’re grocery shopping or making everyday purchases, this app offers an easy way to turn your receipts into rewards. By participating in surveys, spinning the prize wheel, and redeeming your coins for cash or gift cards, you can make the most of your everyday expenses. To write this article, I’ve used some materials available from the [Receipt Hog Help Center](https://receipthog.zendesk.com/hc/en-us), which offer further details and resources. For further details or support, check out the Help Center for answers to your questions.
+
+<h5 align = "right">Written By - <i>Tanu Nanda Prabhu</i></h5>
+<h5 align = "right">Date modified - <i>Jan 19, 2025</i></h5>
 
